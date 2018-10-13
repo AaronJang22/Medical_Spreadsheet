@@ -1,0 +1,6 @@
+cheung	tom	sarah	hugo	ashley
+1	2	3	4	5
+164	171	166	178	171
+24	24	21	17	25
+M	M	F	M	F
+5
